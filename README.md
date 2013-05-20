@@ -17,6 +17,7 @@ Currently available artifacts:
 
 - com.ibm.icu:icu4j-charset:51.1
 
+
     <dependency>
       <groupId>com.ibm.icu</groupId>
       <artifactId>icu4j-charset</artifactId>
