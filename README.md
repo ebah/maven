@@ -13,9 +13,10 @@ To use it, add the repository to your pom.xml file:
       <url>https://raw.github.com/ebah/maven/master/releases</url>
     </repository>
 
-Currently available artifacts:
+## Currently available artifacts
 
-com.ibm.icu:icu4j-charset:51.1
+### com.ibm.icu:icu4j-charset:51.1
+
 
     <dependency>
       <groupId>com.ibm.icu</groupId>
